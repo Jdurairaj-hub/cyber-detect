@@ -1,0 +1,23 @@
+/* CSS to center the form in the middle of the page */
+/* div {
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+  } */
+  
+  .mainForm {
+    /* display: flex;           
+    flex-direction: column;  
+    align-items: center;      */
+    padding: 20px;           /* Adds some padding around the form */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: Adds shadow for better visibility */
+    width: 300px;            /* Sets a fixed width for the form */
+  }
+  
+  /*.buttton {                 
+    cursor: pointer;         
+    padding: 8px 16px;       
+    margin-top: 20px;        
+  }
+  */
